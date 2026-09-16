@@ -1,0 +1,9 @@
+number=15
+sgpa=8.1
+name="venu"
+print("Number:",number)
+print("DataType:",type(number))
+print("Sgpa:",sgpa)
+print(type(sgpa))
+print("Name:",name)
+print("DataType:",type(name))

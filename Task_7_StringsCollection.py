@@ -1,0 +1,19 @@
+text="python programming"
+print(text.upper())
+print(text.lower())
+print(text.replace("python","data"))
+print(text.find("programming"))
+numbers=[5,2,8,1]
+numbers.append(10)
+numbers.remove(2)
+numbers.sort()
+print(numbers)
+student=("venu",20,"DataScience")
+print(student[0])
+print(student[1])
+details={"name":"venu","age":20,"branch":"DataScience"}
+print(details)
+items={1,2,3}
+items.add(4)
+items.remove(2)
+print(items)
